@@ -1,9 +1,5 @@
 # ChatBud
 
-![ChatBud Logo](https://via.placeholder.com/1000x250.png?text=ChatBud+Logo)
-
-![MAD Scorecard](https://via.placeholder.com/1000x500.png?text=MAD+Scorecard)
-
 **ChatBud** is a real-time chat application built using **MVVM architecture** and powered by **Firebase**. It supports **user authentication, real-time messaging, and status updates**. The app is designed with **modern Android development practices** using **Jetpack components, Dagger Hilt, and Kotlin Coroutines**.
 
 ---
@@ -17,14 +13,6 @@
 ✅ **Dagger Hilt for Dependency Injection**
 ✅ **Jetpack ViewModel & Lifecycle Management**
 ✅ **Material Design 3 UI for a modern look**
-
----
-
-## 📸 Screenshots
-
-| Login Screen  | Chat Screen  | Status Feature |
-|---|---|---|
-| ![Login](https://via.placeholder.com/200x400.png?text=Login) | ![Chat](https://via.placeholder.com/200x400.png?text=Chat) | ![Status](https://via.placeholder.com/200x400.png?text=Status) |
 
 ---
 
